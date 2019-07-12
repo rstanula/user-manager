@@ -21,11 +21,11 @@ IDE to run project (for example Intellij IDEA)
 
 ## Running the tests
 
-Test can be run unit tests by maven using "mvn test" command or manually using IDE
+Unit tests can be run by maven using "mvn test" command or manually using IDE
 
 ### Documentation for the API
 
-After running application locally you can see API using link: "http://localhost:8080/swagger-ui.html" and easy test REST endpoints
+After running application locally you can see API using link: http://localhost:8080/swagger-ui.html and easily test REST endpoints
 
 ## Author
 
